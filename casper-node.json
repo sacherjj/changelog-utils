@@ -1,0 +1,10 @@
+[
+  ["Casper Node (casper-node/node/)", "../casper-node/node/CHANGELOG.md"],
+  ["Execution Engine (casper-node/execution_engine/)", "../casper-node/execution_engine/CHANGELOG.md"],
+  ["Node Macros (casper-node/node_macros/)", "../casper-node/node_macros/CHANGELOG.md"],
+  ["Casper Types (casper-node/types/)", "../casper-node/types/CHANGELOG.md"],
+  ["Cargo Casper (casper-node/execution_engine_testing/cargo_casper)", "../casper-node/execution_engine_testing/cargo_casper/CHANGELOG.md"],
+  ["Test Support (casper-node/execution_engine_testing/test_support)", "../casper-node/execution_engine_testing/test_support/CHANGELOG.md"],
+  ["Contract (casper-node/smart_contracts/contract)", "../casper-node/smart_contracts/contract/CHANGELOG.md"],
+  ["Contract AssemblyScript (casper-node/smart_contracts/contract_as)", "../casper-node/smart_contracts/contract_as/CHANGELOG.md"]
+]
